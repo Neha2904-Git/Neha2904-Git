@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Neha 👋
 
-<!--
-**Neha2904-Git/Neha2904-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Talent Acquisition Professional | Recruitment | Sourcing | Candidate Engagement
 
-Here are some ideas to get you started:
+I'm a Talent Acquisition professional with experience in recruitment, candidate sourcing, screening, and stakeholder coordination.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 What I Do
+
+- Talent Acquisition & End-to-End Recruitment
+- Candidate Sourcing & Screening
+- Candidate Engagement & Coordination
+- Interview Scheduling & Follow-ups
+- Stakeholder Coordination
+- Recruitment for Finance & Accounting Functions
+
+### 🎯 Hiring Areas
+
+- Order to Cash (O2C)
+- Procure to Pay (P2P)
+- Record to Report (R2R)
+- Finance & Accounting
+- Corporate & Business Functions
+
+### 🛠️ Skills
+
+Recruitment | Talent Sourcing | Candidate Screening | Boolean Search | Stakeholder Management | Interview Coordination | Candidate Engagement
+
+### 🌱 Currently Growing
+
+I'm continuously developing my skills in Talent Acquisition, strategic sourcing, recruitment processes, and HR technology.
+
+### 📫 Connect With Me
+
+Your profile
+
+linkedin.com/in/neha-thatkunuri-28b101326
